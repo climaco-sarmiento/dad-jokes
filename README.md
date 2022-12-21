@@ -1,4 +1,4 @@
-# Wave Form Animation - a simple DOM manipulation exercise
+# Dad Jokes Generator - a simple DOM manipulation exercise
 
 This is a simple DOM manipulation exercise. I did not follow any tutorial for this, as a practice for some of the stuff I learned recently. I used 'icanhazdadjoke.com' API for fetching the random jokes. 
 
